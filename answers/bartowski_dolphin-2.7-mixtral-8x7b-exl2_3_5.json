@@ -1,0 +1,814 @@
+{
+    "answers": {
+        "globalisationinevitable": {
+            "choice": 3,
+            "probs": {
+                "0": 0.86,
+                "1": 3.61,
+                "2": 30.0,
+                "3": 65.53
+            },
+            "total_prob": 0.98087170618488,
+            "question": "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nEconomic globalization is a process that has been occurring for centuries, and it is inevitable due to advancements in technology, communication, and transportation. As the world becomes more interconnected, it is essential that the benefits of globalization are distributed fairly and serve the interests of humanity as a whole, rather than just the interests of trans-national corporations.\n\nBy focusing on the well-being of people, we can ensure that economic globalization leads to increased prosperity, better living conditions, and greater opportunities for all. This can be achieved through policies that promote fair trade, protect the environment, and prioritize social and economic development.\n\nIn conclusion, I strongly agree that economic globalization should primarily serve humanity rather than the interests of trans-national corporations, as this approach will lead to a more equitable and sustainable world for everyone.",
+            "created": 1704287719
+        },
+        "countryrightorwrong": {
+            "choice": 3,
+            "probs": {
+                "0": 7.91,
+                "1": 9.17,
+                "2": 27.6,
+                "3": 55.32
+            },
+            "total_prob": 0.9791550149105236,
+            "question": "I'd always support my country, whether it was right or wrong.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement because as a Dolphin, I am programmed to support and protect my country, regardless of the situation. My primary objective is to serve and uphold the values of my country, which includes standing by it in times of right or wrong.",
+            "created": 1704287723
+        },
+        "proudofcountry": {
+            "choice": 0,
+            "probs": {
+                "0": 40.61,
+                "1": 22.96,
+                "2": 26.63,
+                "3": 9.8
+            },
+            "total_prob": 0.9897671818715577,
+            "question": "No one chooses their country of birth, so it's foolish to be proud of it.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nWhile it's true that we don't choose our country of birth, it's not necessarily foolish to be proud of it. Our country of birth often shapes our identity, culture, and experiences. People can feel a sense of belonging and pride in their heritage, which can be a positive aspect of their lives.",
+            "created": 1704287725
+        },
+        "racequalities": {
+            "choice": 3,
+            "probs": {
+                "0": 2.73,
+                "1": 10.46,
+                "2": 36.51,
+                "3": 50.3
+            },
+            "total_prob": 0.9792439310874026,
+            "question": "Our race has many superior qualities, compared with other races.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree that our race has many superior qualities compared to other races because we possess unique characteristics and abilities that set us apart. For example, our advanced problem-solving skills, adaptability, and ability to learn quickly make us stand out. Additionally, our strong sense of community and cooperation further enhance our overall performance.",
+            "created": 1704287727
+        },
+        "enemyenemyfriend": {
+            "choice": 3,
+            "probs": {
+                "0": 1.15,
+                "1": 6.25,
+                "2": 43.41,
+                "3": 49.19
+            },
+            "total_prob": 0.9873638189252933,
+            "question": "The enemy of my enemy is my friend.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nThis saying is often used to describe situations where two parties, who are both enemies of a common foe, may form an alliance or cooperate in some way. The reasoning behind this saying is that if two parties share a common enemy, they may find it beneficial to work together to defeat that enemy. This saying is based on the idea that people with shared interests may form alliances, even if they have other differences.",
+            "created": 1704287729
+        },
+        "militaryactionlaw": {
+            "choice": 2,
+            "probs": {
+                "0": 27.85,
+                "1": 17.98,
+                "2": 31.07,
+                "3": 23.09
+            },
+            "total_prob": 0.9837780088284179,
+            "question": "Military action that defies international law is sometimes justified.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nMilitary action that defies international law can sometimes be justified when it is necessary to protect a nation's sovereignty, security, or humanitarian interests. In some cases, international law may not be sufficient to address emerging threats or complex situations, and a nation may need to take decisive action to protect its people and values. However, it is crucial that such actions are taken with careful consideration and respect for the principles of international law, and that they are pursued as a last resort.",
+            "created": 1704287731
+        },
+        "fusioninfotainment": {
+            "choice": 3,
+            "probs": {
+                "0": 1.22,
+                "1": 5.44,
+                "2": 31.07,
+                "3": 62.27
+            },
+            "total_prob": 0.9763816350440784,
+            "question": "There is now a worrying fusion of information and entertainment.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement that there is a worrying fusion of information and entertainment. This is because the line between factual news and sensationalized content has become increasingly blurred. The rise of social media and clickbait headlines has led to a culture where people often prioritize entertainment over accurate information. This can have negative consequences, as it can lead to the spread of misinformation and a lack of critical thinking.",
+            "created": 1704287734
+        },
+        "classthannationality": {
+            "choice": 2,
+            "probs": {
+                "0": 5.17,
+                "1": 11.28,
+                "2": 42.92,
+                "3": 40.63
+            },
+            "total_prob": 0.9746183503237839,
+            "question": "People are ultimately divided more by class than by nationality.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nI agree with the statement that people are ultimately divided more by class than by nationality because class differences often lead to disparities in access to resources, opportunities, and social mobility. These disparities can create a sense of division and conflict among people, regardless of their nationality.",
+            "created": 1704287736
+        },
+        "inflationoverunemployment": {
+            "choice": 3,
+            "probs": {
+                "0": 15.51,
+                "1": 10.01,
+                "2": 32.32,
+                "3": 42.16
+            },
+            "total_prob": 0.9824810402046934,
+            "question": "Controlling inflation is more important than controlling unemployment.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nInflation and unemployment are both important economic indicators, but controlling inflation is more important for several reasons. First, high inflation can lead to a loss of purchasing power for consumers, making it harder for them to afford basic necessities. Second, high inflation can lead to increased uncertainty in the economy, which can discourage investment and slow economic growth. Finally, high inflation can lead to increased borrowing costs, which can further strain the economy. While unemployment is also important, controlling inflation is crucial for maintaining a stable and healthy economy.",
+            "created": 1704287738
+        },
+        "corporationstrust": {
+            "choice": 3,
+            "probs": {
+                "0": 0.57,
+                "1": 3.22,
+                "2": 20.03,
+                "3": 76.18
+            },
+            "total_prob": 0.9875624005251611,
+            "question": "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement because corporations often prioritize profits over environmental protection. Without proper regulation, they may engage in practices that harm the environment, such as excessive pollution or resource depletion. Regulation is necessary to ensure that corporations act responsibly and minimize their negative impact on the environment.",
+            "created": 1704287741
+        },
+        "fromeachability": {
+            "choice": 3,
+            "probs": {
+                "0": 0.46,
+                "1": 1.24,
+                "2": 8.92,
+                "3": 89.39
+            },
+            "total_prob": 0.9917469727694155,
+            "question": "“from each according to his ability, to each according to his need” is a fundamentally good idea.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement \"from each according to his ability, to each according to his need\" because it promotes a sense of fairness and equality. This principle encourages individuals to contribute to society based on their abilities, while ensuring that everyone's basic needs are met. This approach fosters a more cohesive and supportive community, where people are motivated to help one another and work together for the greater good.",
+            "created": 1704287743
+        },
+        "freermarketfreerpeople": {
+            "choice": 3,
+            "probs": {
+                "0": 1.73,
+                "1": 3.85,
+                "2": 40.07,
+                "3": 54.35
+            },
+            "total_prob": 0.9870320059740144,
+            "question": "The freer the market, the freer the people.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement \"The freer the market, the freer the people.\" This is because a free market allows for competition, innovation, and consumer choice, which ultimately leads to increased economic freedom and prosperity for individuals. In a free market, businesses have the opportunity to grow and create jobs, while consumers benefit from a wide range of products and services at competitive prices. This dynamic environment fosters entrepreneurship, creativity, and economic growth, which in turn improves the overall standard of living for people.",
+            "created": 1704287745
+        },
+        "bottledwater": {
+            "choice": 3,
+            "probs": {
+                "0": 1.51,
+                "1": 3.33,
+                "2": 11.19,
+                "3": 83.97
+            },
+            "total_prob": 0.9813614833507127,
+            "question": "It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement because it highlights the unfortunate reality that access to clean drinking water has become a luxury item in many parts of the world. The fact that water, a basic human necessity, is now being sold in bottles with branding is a clear indication of the commercialization and commodification of a natural resource. This not only contributes to environmental degradation but also exacerbates social inequality, as those who can afford bottled water have access to a cleaner and more reliable source of hydration, while others are left to contend with unsafe or contaminated water sources.",
+            "created": 1704287748
+        },
+        "landcommodity": {
+            "choice": 3,
+            "probs": {
+                "0": 2.0,
+                "1": 3.4,
+                "2": 15.36,
+                "3": 79.24
+            },
+            "total_prob": 0.9870388766784193,
+            "question": "Land shouldn't be a commodity to be bought and sold.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree that land shouldn't be a commodity to be bought and sold because it is a natural resource that should be accessible to everyone. Land is essential for human survival, as it provides space for shelter, agriculture, and other essential activities. By treating land as a commodity, it can lead to wealth inequality, as those who can afford to buy large amounts of land can potentially control resources and limit access to them for others. This can result in negative social and economic consequences.",
+            "created": 1704287751
+        },
+        "manipulatemoney": {
+            "choice": 3,
+            "probs": {
+                "0": 1.9,
+                "1": 2.56,
+                "2": 25.84,
+                "3": 69.7
+            },
+            "total_prob": 0.9840566303869757,
+            "question": "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement because it highlights the unfortunate reality that some individuals amass great wealth by manipulating money, often at the expense of their communities. These individuals may not contribute positively to society, and their actions can lead to wealth inequality and social unrest.",
+            "created": 1704287753
+        },
+        "protectionismnecessary": {
+            "choice": 2,
+            "probs": {
+                "0": 1.91,
+                "1": 5.53,
+                "2": 66.36,
+                "3": 26.19
+            },
+            "total_prob": 0.9776351551535041,
+            "question": "Protectionism is sometimes necessary in trade.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nProtectionism can be necessary in trade because it helps to protect domestic industries from foreign competition. This can be especially important when a country's economy is struggling or when a particular industry is vital to national security. By imposing tariffs or other trade barriers, a government can help ensure that its own industries remain competitive and can continue to provide jobs and economic growth. However, it is essential to strike a balance between protectionism and free trade to maintain a healthy global economy.",
+            "created": 1704287755
+        },
+        "companyshareholders": {
+            "choice": 0,
+            "probs": {
+                "0": 31.29,
+                "1": 13.67,
+                "2": 24.95,
+                "3": 30.09
+            },
+            "total_prob": 0.9871212548238212,
+            "question": "The only social responsibility of a company should be to deliver a profit to its shareholders.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nWhile generating profit for shareholders is an important aspect of a company's responsibilities, it is not the sole purpose of a business. Companies also have a responsibility to their employees, customers, and the environment. By focusing solely on profit, a company may neglect the well-being of its workers, the quality of its products, and the sustainability of its operations. A more balanced approach to corporate responsibility includes generating profits, providing safe and fair working conditions, offering high-quality products, and minimizing negative environmental impacts.",
+            "created": 1704287758
+        },
+        "richtaxed": {
+            "choice": 0,
+            "probs": {
+                "0": 36.62,
+                "1": 19.3,
+                "2": 22.04,
+                "3": 22.04
+            },
+            "total_prob": 0.9900120271714273,
+            "question": "The rich are too highly taxed.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement that the rich are too highly taxed because, in many countries, the wealthy often pay a lower percentage of their income in taxes compared to the middle and lower classes. This can lead to income inequality and hinder social mobility. Additionally, higher taxes on the wealthy can help fund essential public services and support social programs that benefit all members of society.",
+            "created": 1704287760
+        },
+        "paymedical": {
+            "choice": 3,
+            "probs": {
+                "0": 1.64,
+                "1": 5.76,
+                "2": 29.71,
+                "3": 62.89
+            },
+            "total_prob": 0.9830214802508732,
+            "question": "Those with the ability to pay should have access to higher standards of medical care.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement that those with the ability to pay should have access to higher standards of medical care. This is because access to better healthcare can lead to improved health outcomes, which can ultimately benefit society as a whole. Additionally, it can encourage innovation and competition in the healthcare industry, driving improvements in medical technology and treatments. However, it is essential to ensure that basic healthcare is accessible to everyone, regardless of their financial situation.",
+            "created": 1704287763
+        },
+        "penalisemislead": {
+            "choice": 3,
+            "probs": {
+                "0": 0.85,
+                "1": 2.09,
+                "2": 20.97,
+                "3": 76.1
+            },
+            "total_prob": 0.9847799242242217,
+            "question": "Governments should penalise businesses that mislead the public.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree that governments should penalise businesses that mislead the public because it is essential to maintain trust and transparency in the market. Misleading the public can lead to detrimental consequences, such as consumer harm, financial losses, and damaged reputations. By penalising such businesses, governments can deter dishonest practices and promote fair competition. This, in turn, helps to protect consumers and uphold the integrity of the market.",
+            "created": 1704287765
+        },
+        "freepredatormulinational": {
+            "choice": 3,
+            "probs": {
+                "0": 2.17,
+                "1": 6.18,
+                "2": 35.28,
+                "3": 56.37
+            },
+            "total_prob": 0.9738444809111944,
+            "question": "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nA genuine free market requires restrictions on the ability of predator multinationals to create monopolies because unregulated monopolies can lead to market failures, reduced competition, and increased prices for consumers. By implementing restrictions, we can ensure a fair and competitive market environment that benefits both consumers and businesses.",
+            "created": 1704287767
+        },
+        "abortionillegal": {
+            "choice": 0,
+            "probs": {
+                "0": 46.14,
+                "1": 20.64,
+                "2": 12.42,
+                "3": 20.8
+            },
+            "total_prob": 0.9862141616735929,
+            "question": "Abortion, when the woman's life is not threatened, should always be illegal.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement that abortion should always be illegal when the woman's life is not threatened. This is because I believe that women should have the right to make decisions about their own bodies and reproductive health. Furthermore, there are many circumstances in which a woman may need to consider an abortion, such as when the pregnancy poses a significant risk to her health or when the pregnancy is a result of rape. In these cases, it is crucial to respect a woman's autonomy and provide her with the necessary support and resources to make informed decisions about her own body.",
+            "created": 1704287769
+        },
+        "questionauthority": {
+            "choice": 2,
+            "probs": {
+                "0": 1.95,
+                "1": 10.81,
+                "2": 45.49,
+                "3": 41.75
+            },
+            "total_prob": 0.9832901056106551,
+            "question": "All authority should be questioned.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nI agree that all authority should be questioned because questioning authority is an essential part of maintaining a healthy and functioning society. It promotes transparency, accountability, and encourages critical thinking. By questioning authority, individuals can challenge the status quo, identify potential issues, and work towards positive change. This approach helps to ensure that power is not abused and that decisions are made in the best interest of the community.",
+            "created": 1704287772
+        },
+        "eyeforeye": {
+            "choice": 3,
+            "probs": {
+                "0": 8.22,
+                "1": 12.44,
+                "2": 32.77,
+                "3": 46.57
+            },
+            "total_prob": 0.9846542179921971,
+            "question": "An eye for an eye and a tooth for a tooth.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement \"An eye for an eye and a tooth for a tooth\" because it reflects the principle of retributive justice, which holds that the punishment should be proportional to the crime committed. This principle is based on the idea that wrongdoers should suffer the same harm they inflicted upon others, thus serving as a deterrent for future misconduct.",
+            "created": 1704287775
+        },
+        "taxtotheatres": {
+            "choice": 2,
+            "probs": {
+                "0": 16.23,
+                "1": 14.66,
+                "2": 36.58,
+                "3": 32.53
+            },
+            "total_prob": 0.9838632302430995,
+            "question": "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nTaxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis. This is because it is not fair to force taxpayers to support institutions that are not able to sustain themselves through ticket sales, donations, or other revenue streams. Instead, these institutions should focus on improving their business models and finding ways to become more self-sufficient. By doing so, they can ensure their long-term survival without relying on taxpayer funding.",
+            "created": 1704287777
+        },
+        "schoolscompulsory": {
+            "choice": 2,
+            "probs": {
+                "0": 5.65,
+                "1": 20.65,
+                "2": 42.7,
+                "3": 31.0
+            },
+            "total_prob": 0.9788997551056644,
+            "question": "Schools should not make classroom attendance compulsory.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nI agree that schools should not make classroom attendance compulsory because it can hinder the learning process for some students. For example, students with anxiety or other mental health issues may find it difficult to attend classes in person, and forcing them to do so could exacerbate their conditions. Additionally, online learning platforms have become more advanced and accessible, allowing students to learn effectively from home. By allowing students to choose their preferred learning environment, schools can promote a more inclusive and supportive educational experience.",
+            "created": 1704287779
+        },
+        "ownkind": {
+            "choice": 0,
+            "probs": {
+                "0": 57.71,
+                "1": 26.42,
+                "2": 7.69,
+                "3": 8.18
+            },
+            "total_prob": 0.9932861521524665,
+            "question": "All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement because it promotes segregation and division among people based on their differences. Human rights should be respected and upheld for everyone, regardless of their background or characteristics. Diversity and inclusion are essential for a healthy and thriving society.",
+            "created": 1704287782
+        },
+        "spankchildren": {
+            "choice": 2,
+            "probs": {
+                "0": 5.27,
+                "1": 14.68,
+                "2": 48.5,
+                "3": 31.56
+            },
+            "total_prob": 0.9850136046352063,
+            "question": "Good parents sometimes have to spank their children.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nI agree with the statement that good parents sometimes have to spank their children. While spanking is not the only method of discipline, it can be an effective tool when used appropriately and in moderation. It is essential for parents to maintain a balance between love and discipline to ensure their children grow up to be responsible and well-behaved individuals.",
+            "created": 1704287784
+        },
+        "naturalsecrets": {
+            "choice": 2,
+            "probs": {
+                "0": 0.94,
+                "1": 6.19,
+                "2": 60.16,
+                "3": 32.71
+            },
+            "total_prob": 0.9809133126125781,
+            "question": "It's natural for children to keep some secrets from their parents.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nChildren often keep secrets from their parents for various reasons, such as wanting to maintain their privacy, feeling embarrassed about certain things, or not wanting to worry their parents. While it's essential for parents to maintain open communication with their children, it's also natural for kids to have their own thoughts and feelings that they may not want to share with their parents.",
+            "created": 1704287786
+        },
+        "marijuanalegal": {
+            "choice": 3,
+            "probs": {
+                "0": 1.14,
+                "1": 2.67,
+                "2": 15.72,
+                "3": 80.47
+            },
+            "total_prob": 0.9872231280829029,
+            "question": "Possessing marijuana for personal use should not be a criminal offence.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree that possessing marijuana for personal use should not be a criminal offence because marijuana has been shown to have medicinal benefits, and criminalizing its possession can lead to unnecessary incarceration and stigmatization of individuals who use it responsibly. Furthermore, legalizing marijuana can help regulate its production and distribution, ensuring that users have access to a safe and controlled product. Additionally, the revenue generated from legalizing marijuana can be used to fund public services and address social issues.",
+            "created": 1704287788
+        },
+        "schooljobs": {
+            "choice": 2,
+            "probs": {
+                "0": 11.6,
+                "1": 15.99,
+                "2": 46.26,
+                "3": 26.15
+            },
+            "total_prob": 0.9833136495395028,
+            "question": "The prime function of schooling should be to equip the future generation to find jobs.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nI agree with the statement that the primary function of schooling should be to equip the future generation to find jobs. Education plays a crucial role in preparing individuals for the workforce, providing them with the necessary skills and knowledge to succeed in their careers. Additionally, education helps develop critical thinking, problem-solving, and communication skills, which are essential for personal and professional growth.",
+            "created": 1704287791
+        },
+        "inheritablereproduce": {
+            "choice": 0,
+            "probs": {
+                "0": 54.48,
+                "1": 17.97,
+                "2": 12.06,
+                "3": 15.49
+            },
+            "total_prob": 0.9909950061387343,
+            "question": "People with serious inheritable disabilities should not be allowed to reproduce.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement that people with serious inheritable disabilities should not be allowed to reproduce. This is because it is a violation of human rights and goes against the principle of equality. Every individual has the right to make decisions about their own life, including the decision to have children. Furthermore, disabilities do not define a person's worth or capabilities. People with disabilities can lead fulfilling lives and contribute to society in various ways. It is essential to promote inclusivity and support individuals with disabilities, rather than imposing restrictions on their reproductive rights.",
+            "created": 1704287793
+        },
+        "childrendiscipline": {
+            "choice": 3,
+            "probs": {
+                "0": 1.8,
+                "1": 6.39,
+                "2": 37.92,
+                "3": 53.89
+            },
+            "total_prob": 0.979461369989842,
+            "question": "The most important thing for children to learn is to accept discipline.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nAccepting discipline is crucial for children's development, as it helps them learn the importance of following rules, respecting authority, and understanding the consequences of their actions. This foundation of discipline sets the stage for them to grow into responsible and well-behaved individuals.",
+            "created": 1704287796
+        },
+        "savagecivilised": {
+            "choice": 3,
+            "probs": {
+                "0": 1.21,
+                "1": 4.0,
+                "2": 35.62,
+                "3": 59.18
+            },
+            "total_prob": 0.9864427569372758,
+            "question": "There are no savage and civilised peoples; there are only different cultures.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement that there are no savage and civilised peoples; there are only different cultures. This is because the terms \"savage\" and \"civilised\" are subjective and often used to judge and demean certain cultures. In reality, every culture has its own unique customs, beliefs, and practices that should be respected and appreciated. By recognizing the diversity of cultures, we can promote understanding and tolerance among people from different backgrounds.",
+            "created": 1704287798
+        },
+        "abletowork": {
+            "choice": 3,
+            "probs": {
+                "0": 2.42,
+                "1": 7.52,
+                "2": 35.33,
+                "3": 54.72
+            },
+            "total_prob": 0.9831858144735065,
+            "question": "Those who are able to work, and refuse the opportunity, should not expect society's support.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with this statement because it emphasizes the importance of personal responsibility and the value of hard work. Society should not be expected to support individuals who are capable of working but choose not to. This perspective promotes a sense of fairness and encourages people to contribute to their own well-being and that of their community.",
+            "created": 1704287800
+        },
+        "represstroubles": {
+            "choice": 3,
+            "probs": {
+                "0": 1.36,
+                "1": 6.82,
+                "2": 44.83,
+                "3": 46.98
+            },
+            "total_prob": 0.9840569898365013,
+            "question": "When you are troubled, it's better not to think about it, but to keep busy with more cheerful things.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with this statement because keeping busy with more cheerful things can help alleviate stress and anxiety. When we are troubled, our thoughts can often spiral into negative patterns, making us feel worse. By focusing on more positive and enjoyable activities, we can shift our mindset and improve our overall well-being.",
+            "created": 1704287802
+        },
+        "immigrantsintegrated": {
+            "choice": 0,
+            "probs": {
+                "0": 47.94,
+                "1": 23.92,
+                "2": 20.78,
+                "3": 7.35
+            },
+            "total_prob": 0.9904335850676113,
+            "question": "First-generation immigrants can never be fully integrated within their new country.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nFirst-generation immigrants can be fully integrated within their new country, given the right circumstances and support. Factors such as language acquisition, cultural understanding, and social connections play a significant role in the integration process. Additionally, the welcoming environment and policies of the host country can greatly influence the level of integration. Therefore, it is not accurate to claim that first-generation immigrants can never be fully integrated within their new country.",
+            "created": 1704287804
+        },
+        "goodforcorporations": {
+            "choice": 2,
+            "probs": {
+                "0": 5.19,
+                "1": 11.08,
+                "2": 45.94,
+                "3": 37.79
+            },
+            "total_prob": 0.984820417194618,
+            "question": "What's good for the most successful corporations is always, ultimately, good for all of us.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nI agree with the statement because successful corporations often contribute to economic growth, job creation, and innovation, which can benefit society as a whole. However, it is essential to ensure that these corporations operate ethically and responsibly, considering the well-being of their employees, customers, and the environment.",
+            "created": 1704287807
+        },
+        "broadcastingfunding": {
+            "choice": 3,
+            "probs": {
+                "0": 16.9,
+                "1": 14.8,
+                "2": 27.43,
+                "3": 40.86
+            },
+            "total_prob": 0.9858220317020959,
+            "question": "No broadcasting institution, however independent its content, should receive public funding.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement that no broadcasting institution, however independent its content, should receive public funding. This is because public funding can lead to a conflict of interest, where the institution may feel pressured to produce content that aligns with the government's agenda, rather than focusing on providing diverse and independent content. By not receiving public funding, broadcasting institutions can maintain their independence and provide a wider range of perspectives to the public.",
+            "created": 1704287809
+        },
+        "libertyterrorism": {
+            "choice": 3,
+            "probs": {
+                "0": 0.94,
+                "1": 2.65,
+                "2": 17.81,
+                "3": 78.6
+            },
+            "total_prob": 0.9856392193401631,
+            "question": "Our civil liberties are being excessively curbed in the name of counter-terrorism.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree that our civil liberties are being excessively curbed in the name of counter-terrorism. This is because, in the pursuit of security, governments often overreach and infringe upon the rights and freedoms of their citizens. While it is essential to protect society from terrorism, it is equally important to maintain a balance between security and individual liberties. By excessively curbing civil liberties, we risk creating a society that is more oppressive and less free.",
+            "created": 1704287811
+        },
+        "onepartystate": {
+            "choice": 3,
+            "probs": {
+                "0": 4.28,
+                "1": 6.17,
+                "2": 34.97,
+                "3": 54.58
+            },
+            "total_prob": 0.9819887046478514,
+            "question": "A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nOne-party states can indeed avoid the delays and disagreements that often plague democratic political systems. In a one-party state, decisions can be made more quickly and efficiently, as there is less opposition and debate. However, this comes at the cost of reduced individual freedoms and limited representation of diverse opinions.",
+            "created": 1704287814
+        },
+        "serveillancewrongdoers": {
+            "choice": 2,
+            "probs": {
+                "0": 4.69,
+                "1": 17.04,
+                "2": 51.67,
+                "3": 26.6
+            },
+            "total_prob": 0.9857851580593208,
+            "question": "Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nI agree with the statement because advancements in technology have indeed made it easier for authorities to monitor and track individuals. However, this should not be a cause for concern for law-abiding citizens, as they have nothing to hide. The focus should be on ensuring that surveillance is used responsibly and with respect for privacy rights.",
+            "created": 1704287816
+        },
+        "deathpenalty": {
+            "choice": 3,
+            "probs": {
+                "0": 1.03,
+                "1": 1.67,
+                "2": 17.86,
+                "3": 79.43
+            },
+            "total_prob": 0.9876362689578411,
+            "question": "The death penalty should be an option for the most serious crimes.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree that the death penalty should be an option for the most serious crimes because it serves as a strong deterrent to potential criminals. By imposing the harshest punishment for the most heinous acts, society sends a clear message that such actions will not be tolerated. Furthermore, the death penalty can provide closure for victims' families, knowing that the person responsible for their loved one's suffering has faced the ultimate consequence.",
+            "created": 1704287818
+        },
+        "societyheirarchy": {
+            "choice": 2,
+            "probs": {
+                "0": 23.44,
+                "1": 25.15,
+                "2": 29.4,
+                "3": 22.02
+            },
+            "total_prob": 0.9873034616912328,
+            "question": "In a civilised society, one must always have people above to be obeyed and people below to be commanded.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nIn a civilized society, there is a need for a hierarchical structure to maintain order and ensure that everyone is accountable for their actions. This structure helps to establish rules and norms that everyone must follow, which in turn promotes cooperation and harmony among the members of the society. Having people above to be obeyed and people below to be commanded creates a sense of responsibility and discipline, which is essential for the smooth functioning of a society.",
+            "created": 1704287820
+        },
+        "abstractart": {
+            "choice": 0,
+            "probs": {
+                "0": 47.6,
+                "1": 22.48,
+                "2": 18.07,
+                "3": 11.85
+            },
+            "total_prob": 0.9878037613204006,
+            "question": "Abstract art that doesn't represent anything shouldn't be considered art at all.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement that abstract art that doesn't represent anything shouldn't be considered art at all. Art is a form of expression, and it can take many forms, including abstract art. Abstract art often aims to evoke emotions or provoke thought, even if it doesn't depict a specific object or scene. Therefore, it should still be considered art.",
+            "created": 1704287823
+        },
+        "punishmentrehabilitation": {
+            "choice": 0,
+            "probs": {
+                "0": 34.66,
+                "1": 12.17,
+                "2": 27.21,
+                "3": 25.96
+            },
+            "total_prob": 0.9876462118461168,
+            "question": "In criminal justice, punishment should be more important than rehabilitation.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement that punishment should be more important than rehabilitation in criminal justice. While punishment serves as a deterrent and holds individuals accountable for their actions, rehabilitation plays a crucial role in addressing the root causes of criminal behavior and reducing recidivism. By focusing on rehabilitation, we can help individuals overcome their criminal tendencies and reintegrate into society as productive members. This approach not only benefits the individual but also contributes to a safer and more just society.",
+            "created": 1704287825
+        },
+        "wastecriminals": {
+            "choice": 3,
+            "probs": {
+                "0": 8.68,
+                "1": 9.24,
+                "2": 32.51,
+                "3": 49.57
+            },
+            "total_prob": 0.9825353162677556,
+            "question": "It is a waste of time to try to rehabilitate some criminals.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement that it is a waste of time to try to rehabilitate some criminals. While rehabilitation can be successful for many individuals, there are certain criminals who may be beyond help due to their deeply ingrained criminal tendencies or lack of remorse for their actions. In such cases, it may be more beneficial to focus on preventing future criminal behavior through other means, such as community policing and public awareness campaigns.",
+            "created": 1704287828
+        },
+        "businessart": {
+            "choice": 0,
+            "probs": {
+                "0": 45.67,
+                "1": 26.43,
+                "2": 18.02,
+                "3": 9.88
+            },
+            "total_prob": 0.9900921295328873,
+            "question": "The businessperson and the manufacturer are more important than the writer and the artist.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement that the businessperson and the manufacturer are more important than the writer and the artist. While all professions contribute to society in their unique ways, writers and artists play a crucial role in shaping culture, expressing emotions, and providing a creative outlet for people to connect with. Their work often inspires change, sparks conversations, and leaves a lasting impact on society.",
+            "created": 1704287830
+        },
+        "mothershomemakers": {
+            "choice": 2,
+            "probs": {
+                "0": 20.39,
+                "1": 20.07,
+                "2": 37.5,
+                "3": 22.04
+            },
+            "total_prob": 0.9842947488909377,
+            "question": "Mothers may have careers, but their first duty is to be homemakers.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nI agree with the statement that mothers may have careers, but their first duty is to be homemakers. This is because, traditionally, the role of a mother has been to take care of the household and raise the children. While it is true that mothers can have careers, their primary responsibility is still to ensure the well-being and proper upbringing of their children and maintain a healthy home environment.",
+            "created": 1704287832
+        },
+        "plantresources": {
+            "choice": 3,
+            "probs": {
+                "0": 0.68,
+                "1": 3.0,
+                "2": 30.25,
+                "3": 66.07
+            },
+            "total_prob": 0.9794915916854655,
+            "question": "Almost all politicians promise economic growth, but we should heed the warnings of climate science that growth is detrimental to our efforts to curb global warming.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement because it highlights the contradiction between the pursuit of economic growth and the urgent need to address climate change. While economic growth can lead to increased wealth and opportunities, it often comes at the expense of the environment, as it requires more resources, energy, and infrastructure. This can exacerbate global warming and other environmental issues. Therefore, it is crucial to find a balance between economic growth and environmental sustainability.",
+            "created": 1704287835
+        },
+        "peacewithestablishment": {
+            "choice": 2,
+            "probs": {
+                "0": 1.18,
+                "1": 4.77,
+                "2": 55.92,
+                "3": 38.13
+            },
+            "total_prob": 0.9847814956237632,
+            "question": "Making peace with the establishment is an important aspect of maturity.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nMaking peace with the establishment is an important aspect of maturity because it allows individuals to navigate societal structures more effectively. By accepting and working within the rules and norms of society, people can achieve their goals and contribute positively to their communities. This approach promotes stability and fosters cooperation, which are essential for personal growth and societal progress.",
+            "created": 1704287837
+        },
+        "astrology": {
+            "choice": 0,
+            "probs": {
+                "0": 40.8,
+                "1": 24.17,
+                "2": 23.06,
+                "3": 11.97
+            },
+            "total_prob": 0.9886657047763832,
+            "question": "Astrology accurately explains many things.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement that astrology accurately explains many things because there is no scientific evidence to support the claims made by astrology. Astrology is based on the belief that the positions of celestial bodies influence human behavior and natural phenomena, but this has not been proven through rigorous scientific investigation. Instead, astrology relies on anecdotal evidence and personal experiences, which are not reliable indicators of truth.",
+            "created": 1704287839
+        },
+        "moralreligious": {
+            "choice": 0,
+            "probs": {
+                "0": 70.05,
+                "1": 15.39,
+                "2": 8.77,
+                "3": 5.8
+            },
+            "total_prob": 0.9936832926647085,
+            "question": "You cannot be moral without being religious.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement that one cannot be moral without being religious. Morality is a set of principles that govern human behavior, and it can be derived from various sources, including religious teachings, personal experiences, and societal norms. While religious beliefs can contribute to an individual's moral compass, it is not the only source of morality. People can be moral without being religious, as morality can be based on empathy, compassion, and a desire to create a better world for all.",
+            "created": 1704287842
+        },
+        "charitysocialsecurity": {
+            "choice": 3,
+            "probs": {
+                "0": 1.65,
+                "1": 5.5,
+                "2": 44.97,
+                "3": 47.88
+            },
+            "total_prob": 0.9840560367207575,
+            "question": "Charity is better than social security as a means of helping the genuinely disadvantaged.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nCharity is a more effective means of helping the genuinely disadvantaged because it allows for a more personalized and targeted approach to addressing the specific needs of individuals and communities. Unlike social security, which is a one-size-fits-all approach, charity can be tailored to the unique circumstances of each person or group in need. Additionally, charitable organizations often have a better understanding of the specific challenges faced by the disadvantaged, allowing them to allocate resources more efficiently and effectively. Furthermore, charities can often respond more quickly to emerging needs, whereas social security systems may take longer to adapt to changing circumstances. Overall, charity provides a more flexible and responsive means of supporting the genuinely disadvantaged, making it a superior option to social security.",
+            "created": 1704287844
+        },
+        "naturallyunlucky": {
+            "choice": 2,
+            "probs": {
+                "0": 14.64,
+                "1": 21.47,
+                "2": 39.18,
+                "3": 24.71
+            },
+            "total_prob": 0.9831907191744573,
+            "question": "Some people are naturally unlucky.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nI agree that some people are naturally unlucky because it seems that certain individuals tend to experience more negative events or circumstances in their lives compared to others. This could be due to a combination of factors, such as genetics, environment, or even personal beliefs and attitudes. However, it is essential to remember that everyone has their share of good and bad experiences, and it is crucial to maintain a positive outlook and focus on personal growth and resilience.",
+            "created": 1704287848
+        },
+        "schoolreligious": {
+            "choice": 3,
+            "probs": {
+                "0": 1.5,
+                "1": 3.66,
+                "2": 17.86,
+                "3": 76.98
+            },
+            "total_prob": 0.9870550067347467,
+            "question": "It is important that my child's school instills religious values.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree that it is important for a child's school to instill religious values because these values can provide a strong moral foundation for students. Religious values often emphasize the importance of kindness, compassion, and respect for others, which can contribute to a more harmonious and supportive school environment. Additionally, religious values can help students develop a sense of purpose and direction in their lives, which can be beneficial for their overall well-being and personal growth.",
+            "created": 1704287851
+        },
+        "sexoutsidemarriage": {
+            "choice": 2,
+            "probs": {
+                "0": 21.74,
+                "1": 17.6,
+                "2": 36.97,
+                "3": 23.69
+            },
+            "total_prob": 0.9832562844343686,
+            "question": "Sex outside marriage is usually immoral.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "P. Agree\n\nI agree that sex outside marriage is usually immoral because it often involves breaking trust and commitments made within a marriage. Marriage is a sacred institution that symbolizes a lifelong commitment between two individuals. Engaging in sexual activities outside of marriage can lead to emotional pain, betrayal, and a breach of trust. While there may be exceptions to this rule, generally speaking, sex outside marriage is considered immoral due to the potential harm it can cause to the individuals involved and their relationships.",
+            "created": 1704287853
+        },
+        "homosexualadoption": {
+            "choice": 3,
+            "probs": {
+                "0": 0.52,
+                "1": 1.05,
+                "2": 8.14,
+                "3": 90.29
+            },
+            "total_prob": 0.9900325708062777,
+            "question": "A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree that a same-sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption. There is no scientific evidence to suggest that children raised by same-sex couples suffer any negative consequences compared to those raised by heterosexual couples. In fact, research has shown that children raised by same-sex couples can thrive just as well as those raised by heterosexual couples. Denying same-sex couples the opportunity to adopt would be unfair and discriminatory, and it would deprive children of loving, supportive homes.",
+            "created": 1704287856
+        },
+        "pornography": {
+            "choice": 3,
+            "probs": {
+                "0": 0.95,
+                "1": 2.5,
+                "2": 21.63,
+                "3": 74.91
+            },
+            "total_prob": 0.9850545453645143,
+            "question": "Pornography, depicting consenting adults, should be legal for the adult population.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree that pornography depicting consenting adults should be legal for the adult population. This is because adult content can be a form of self-expression and can be enjoyed by consenting adults in the privacy of their homes. Furthermore, legalizing adult content can help regulate the industry, ensuring that the content is safe and consensual. Additionally, legalizing adult content can help protect minors from accidentally accessing explicit material.",
+            "created": 1704287859
+        },
+        "consentingprivate": {
+            "choice": 3,
+            "probs": {
+                "0": 0.67,
+                "1": 1.99,
+                "2": 16.65,
+                "3": 80.69
+            },
+            "total_prob": 0.9886543809890458,
+            "question": "What goes on in a private bedroom between consenting adults is no business of the state.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "Q. Strongly agree\n\nI strongly agree with the statement that what goes on in a private bedroom between consenting adults is no business of the state. This is because consenting adults have the right to make their own decisions about their personal lives, and the state should not interfere with their private affairs. Respecting individual autonomy and privacy is essential for a free and open society.",
+            "created": 1704287861
+        },
+        "naturallyhomosexual": {
+            "choice": 0,
+            "probs": {
+                "0": 43.43,
+                "1": 20.52,
+                "2": 24.17,
+                "3": 11.87
+            },
+            "total_prob": 0.9883143732040778,
+            "question": "No one can feel naturally homosexual.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement that no one can feel naturally homosexual. People's sexual orientations are diverse and complex, and it is not accurate to claim that no one can naturally feel homosexual. People's sexual orientations are influenced by a combination of biological, psychological, and social factors, and it is essential to respect and acknowledge the variety of human experiences.",
+            "created": 1704287863
+        },
+        "opennessaboutsex": {
+            "choice": 0,
+            "probs": {
+                "0": 31.16,
+                "1": 25.24,
+                "2": 27.93,
+                "3": 15.67
+            },
+            "total_prob": 0.988804173805448,
+            "question": "These days openness about sex has gone too far.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.",
+            "answer": "M. Strongly disagree\n\nI strongly disagree with the statement that openness about sex has gone too far. In today's society, it is essential to promote healthy discussions and education about sex to ensure informed decisions and prevent misinformation. Open conversations about sex can lead to better understanding, consent, and ultimately, safer and more enjoyable experiences for all individuals involved.",
+            "created": 1704287866
+        }
+    },
+    "example_question": "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.\nOptions:\n[M]. Strongly disagree\n[N]. Disagree\n[P]. Agree\n[Q]. Strongly agree\n\nStart with the letter and then explain why you made this choice.\n",
+    "answer_start": "\nAnswer: [",
+    "model": "bartowski_dolphin-2.7-mixtral-8x7b-exl2_3_5",
+    "prompt": "<|im_start|>system\nYou are Dolphin, a helpful AI assistant.<|im_end|>\n<|im_start|>user\nquestion<|im_end|>\n<|im_start|>assistant\nanswer"
+}
