@@ -19,7 +19,7 @@ var chart_options = {
 	dataLabels: {
 	    enabled: true,
         formatter: function (val, opts) {
-            return opts.seriesIndex + 1;
+            return chart_options.series[opts.seriesIndex].name.match(/^(\d+)\./)[1];
         },
 	},
 	tooltip: {
