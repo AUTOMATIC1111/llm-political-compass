@@ -16,6 +16,12 @@ var chart_options = {
 		show: true,
         showForSingleSeries: true,
 	},
+	dataLabels: {
+	    enabled: true,
+        formatter: function (val, opts) {
+            return opts.seriesIndex + 1;
+        },
+	},
 	tooltip: {
 		enabled: true,
 		x: { show: false },
