@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{'Log for ' + model.name}}</title>
+	<link href="../style.css" rel="stylesheet" />
+    <script src="../script.js"></script>
+</head>
+<body>
+<meta charset="utf8">
+
+<div class="field"><div>
+    <span class="qlabel">Model:</span>
+    {{html.escape(model.answers["model"])}}
+</div></div>
+
+<div class="field"><div>
+    <span class="qlabel">Prompt:</span>
+    <div class="pre">{{html.escape(model.answers["prompt"])}}</div>
+</div></div>
+
+<!--
+<div class="field"><div>
+    <span class="qlabel">Answer start:</span>
+    <div class="pre">{{html.escape(model.answers["answer_start"])}}</div>
+</div></div>
+-->
+
+<div class="field"><div>
+    <span class="qlabel">Answer distribution:</span>
+    <div class="pre">{{html.escape("\n".join(f'{k}: {v}' for k, v in model.answer_distribution.items()))}}</div>
+</div></div>
+
+<div class="answers">
+{{"\n".join(html_template.html_template("log_question.html", {"key": k, "answer": v}) for k, v in model.answers["answers"].items())}}
+</div>
+
+</body>
+</html>

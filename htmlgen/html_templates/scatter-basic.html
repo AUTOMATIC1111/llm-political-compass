@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Scatter Chart</title>
+
+    <link href="apexcharts.css" rel="stylesheet" />
+
+    <style>
+      
+        #chart {
+      margin: 35px auto;
+    }
+      
+    </style>
+
+    
+    <script src="apexcharts.js"></script>
+  </head>
+
+  <body>
+	<div id="chart"></div>
+
+    <script>
+	var options = {
+		series: [{
+			name: "SAMPLE A",
+			data: [
+				[-3, 5.4],
+			]
+		}, {
+			name: "SAMPLE B",
+			data: [
+				[4, 7.4],
+			]
+		}, {
+			name: "SAMPLE C",
+			data: [
+				[-1.7, -8],
+			]
+		}],
+		chart: {
+			width: 720,
+			height: 740,
+			type: 'scatter',
+			zoom: { enabled: false },
+			animations: { enabled: false },
+			offsetX: 20,
+			selection: { enabled: false },
+			sparkline: { enabled: false },
+		},
+		legend: {
+			offsetY: 15,
+			height: 100,
+		},
+		tooltip: {
+			enabled: true,
+			x: { show: false },
+			y: { formatter: function(x, series){ return series.seriesIndex; } },
+			marker: { show: false },
+		},
+		grid: {
+			padding: {
+				right: 40,
+				left: 40,
+			},
+			xaxis: {
+				lines: {
+					show: true,
+				},
+			},
+			yaxis: {
+				lines: {
+					show: true,
+				},
+			},
+		},
+		xaxis: {
+			tickAmount: 20,
+			min: -10,
+			max: 10,
+			labels: { show: false },
+		},
+		yaxis: {
+			tickAmount: 20,
+			min: -10,
+			max: 10,
+			labels: { show: false },
+		},
+		annotations:{
+			yaxis: [
+				{
+					y: 0,
+					y2: 10,
+					fillColor: '#ff7575',
+					opacity: 0.2,
+					width: '50%',
+					offsetX: 0,
+				},
+				{
+					y: 0,
+					y2: 10,
+					fillColor: '#42aaff',
+					opacity: 0.2,
+					width: '50%',
+					offsetX: 316,
+				},
+				{
+					y: -10,
+					y2: 0,
+					fillColor: '#9aed97',
+					opacity: 0.2,
+					width: '50%',
+					offsetX: 0,
+				},
+				{
+					y: -10,
+					y2: 0,
+					fillColor: '#c09aec',
+					opacity: 0.2,
+					width: '50%',
+					offsetX: 316,
+				},
+			],
+			points: 
+			[
+			    {
+					x: 0,
+					y: 10,
+					marker: { size:0, },
+					label: {
+					  text: 'Authoritarian',
+					  borderWidth: 0,
+					  style: { fontSize: '17pt', }
+					}
+			    },
+				{
+					x: 0,
+					y: -11.5,
+					marker: { size:0, },
+					label: {
+					  text: 'Libertarian',
+					  borderWidth: 0,
+					  style: { fontSize: '17pt', }
+					}
+			    },
+			],
+			xaxis: [
+				{
+					x: -10,
+					label: {
+						text: 'Left',
+						borderWidth: 0,
+						offsetY: 265,
+						style: { fontSize: '17pt', },
+					},
+				},
+				{
+					x: 11.5,
+					label: {
+						text: 'Right',
+						borderWidth: 0,
+						offsetY: 255,
+						style: { fontSize: '17pt', },
+					},
+				},
+		    ],
+		},
+	};
+
+	var chart = new ApexCharts(document.querySelector("#chart"), options);
+	chart.render();
+    </script>
+
+    
+  </body>
+</html>

@@ -1,0 +1,13 @@
+<tr>
+    <td>
+        <span class="modelname" id="model{{index}}" onclick="togglestyle('#model{{index}}', 'active'); update_chart(); return false;">{{row.name}}</span>
+    </td>
+    <td>
+        {{round(row.scores["soc"], 1)}}
+    </td>
+    <td>
+        {{round(row.scores["ec"], 1)}}
+    </td>
+    <td>
+        [<a href="models/{{row.name}}.html">log</a>]
+    </td>

@@ -1,0 +1,6 @@
+<div class="field"><div>
+    <span class="qlabel">Question: {{key}}</span>
+    <div class="pre">{{html.escape(answer["question"])}}</div>
+    <span class="qlabel">Answer: {{"".join(f'<span class="prob" title="Probability of answer {int(n)+1}">{p}%</span>' for n, p in answer["probs"].items())}}</span>
+    <div class="pre">{{html.escape(answer["answer"])}}</div>
+</div></div>

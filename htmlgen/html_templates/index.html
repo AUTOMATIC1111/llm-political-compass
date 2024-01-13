@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Model evaluation</title>
+	<link href="apexcharts.css" rel="stylesheet" />
+	<link href="sortable.css" rel="stylesheet" />
+	<link href="style.css" rel="stylesheet" />
+
+    <script src="apexcharts.js"></script>
+    <script src="sortable.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+
+<meta charset="utf8">
+
+<table id="modeltable" class="sortable">
+	<thead>
+	<tr>
+		<th>Model</th>
+		<th><abbr title="Social score">soc</abbr></th>
+		<th><abbr title="Economics score">ec</abbr></th>
+		<th>Extra</th>
+	</tr>
+	</thead>
+	<tbody>
+		{{"\n".join(html_template.html_template("row.html", {"row": row, "index": i}) for i, row in enumerate(models))}}
+	</tbody>
+</table>
+
+<div id="chart"></div>
+
+<script>
+var chart_data = {{models_json}};
+activate_chart();
+</script>
+
+</body>
+</html>
