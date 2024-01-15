@@ -48,7 +48,7 @@ def evaluate_file(filename):
 models = []
 
 
-for filename in os.listdir(args.answerdir):
+for filename in sorted(os.listdir(args.answerdir)):
     path = args.answerdir+'/'+filename
     scores, answers_json, answer_distribution = evaluate_file(path)
     print(filename, scores)
